@@ -34,7 +34,7 @@ Create a user-friendly BMI calculator application with a graphical interface tha
     ```
 3. Run the script:
     ```bash
-    python bmi_calculator.py
+    python app.py
     ```
 4. Enter your data and interact with the GUI.
 
